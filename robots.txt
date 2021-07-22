@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+sitemap: https://selaras.co.vu/sitemap.xml
